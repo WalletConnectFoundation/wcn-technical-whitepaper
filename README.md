@@ -1,2 +1,2 @@
 # wcn-whitepaper
-WalletConnect Network whitepaper
+WalletConnect Network technical whitepaper
